@@ -84,7 +84,7 @@ function Footer() {
 			</div>
 
 			<span className="footer__copy">
-				&#169; Bedimcode. All rigths reserved
+				&#169; Thanakrit. All rigths reserved
 			</span>
 		</footer>
 	);
